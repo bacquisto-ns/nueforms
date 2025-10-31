@@ -23,8 +23,8 @@ This document defines the visual design system, branding standards, and technica
 
 ### Logo & Tagline
 - **Brand Name**: NueSynergy
-- **Tagline**: "EMPLOYEE FOCUSED ASSISTANCE"
-- **Contact**: 1-800-413-4138 | info@nuesynergy.com
+- **Tagline**: "CUSTOMER FOCUSED & TECHNOLOGY DRIVEN"
+- **Contact**: 1-800-413-4138 | employersupport@nuesynergy.com
 
 ## Technical Stack
 
